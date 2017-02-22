@@ -1,0 +1,15 @@
+
+.table {
+    border: 2px solid #888888;
+    margin: 10px;
+}
+.table thead th {
+    border-bottom-color: #888888;
+    background-color: #888888;
+}
+.bgRed {
+    background-color: indianred;
+}
+.bgGreen {
+    background-color: lightgreen;
+}

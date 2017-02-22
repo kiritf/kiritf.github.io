@@ -1,0 +1,15 @@
+#Exclude the dist folder and sub-folders
+assets/
+
+#Ignore third-party modules
+/node_modules
+
+#Ignore these files anywhere in the tree
+**/.DS_Store
+**/*.sublime-workspace
+
+/stats.json
+/webpack-dev-server.test.out
+/.idea
+/npm-debug.log*
+.vscode/

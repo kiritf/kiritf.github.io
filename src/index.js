@@ -1,0 +1,1 @@
+require('./stocks/StocksMain.jsx')();
