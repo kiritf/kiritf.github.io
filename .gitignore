@@ -1,5 +1,5 @@
-#Exclude the dist folder and sub-folders
-assets/
+#Exclude the assets folder and sub-folders
+#assets/
 
 #Ignore third-party modules
 /node_modules
